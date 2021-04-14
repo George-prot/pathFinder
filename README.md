@@ -1,1 +1,2 @@
 # pathFinder
+A brief implementation of uninformed UCS (Uniform-Cost Search) and informed IDA* (Iterative-Deepening A* Search) for optimal path finding in graphs given from a specific format of input files. Finds the fastest route for a person to go to work , given some traffic predictions for each road, comparing it with the actual cost afterwards. Due to the difference between the predictions and the actual traffic values , there is an -AI logic- implementation which tries to bring the prediction value close to reality.
